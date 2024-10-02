@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12990C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujendra+Nayak;" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12990C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujendra Nayak;" alt="Typing SVG" /></a></p>
 
 <img
   align="right"
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying ➛ **Robotics and AI Engineering**
 - 🥰 I love to work with javascript and React.
-- 😀 I always ready to learn new Technologies.
+- 😀   I  always ready to learn new Technologies.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,6 +45,11 @@
   </a>
 </p>
 
+
+
+
+
+
 <p>
     <img
     align="left"
@@ -70,10 +75,11 @@
     />
   </p>
 
+
   <p>
     <img
       align="center"
       src="https://streak-stats.demolab.com/?user=SujendraNayak&theme=tokyonight"
       alt="SujendraNayak"
     />
-  </p>
+  </p> 
