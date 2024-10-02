@@ -4,20 +4,17 @@
   align="right"
   width="200"
   alt="coding"
-  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
+ src=https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif
 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SujendraNayak&label=Profile%20views&color=0e75b6&style=flat" alt="SujendraNayak" /> </p>
 
----
+- 🌱 I’m currently studying ➛ **Robotics and AI Engineering**
+- 🥰 I love to work with javascript and React.
+- 😀 I always ready to learn new Technologies.
 
-- 🌱 **Currently studying:** ➛ **Robotics and AI Engineering**
-- 🥰 **I love to work with:** JavaScript and React.
-- 😀 **Always ready to learn** new technologies.
 
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -48,10 +45,8 @@
   </a>
 </p>
 
----
-
 <p>
-  <img
+    <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujendraNayak&theme=tokyonight"
     alt="SujendraNayak"
@@ -68,17 +63,17 @@
 <br>
 
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-stats-alpha.vercel.app/api?username=SujendraNayak&cc=1a1b27&tc=f67da5&ic=0df1ed&bc=fff"
-    alt="SujendraNayak"
-  />
-</p>
+    &nbsp;<img
+      align="center"
+      src="https://github-stats-alpha.vercel.app/api?username=SujendraNayak&cc=1a1b27&tc=f67da5&ic=0df1ed&bc=fff"
+      alt="SujendraNayak"
+    />
+  </p>
 
-<p>
-  <img
-    align="center"
-    src="https://streak-stats.demolab.com/?user=SujendraNayak&theme=tokyonight"
-    alt="SujendraNayak"
-  />
-</p>
+  <p>
+    <img
+      align="center"
+      src="https://streak-stats.demolab.com/?user=SujendraNayak&theme=tokyonight"
+      alt="SujendraNayak"
+    />
+  </p>
