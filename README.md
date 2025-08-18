@@ -19,7 +19,6 @@
 - 🥰 I love to work with **JavaScript** and **React**  
 - 😀 I’m always ready to learn **new technologies**
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -52,7 +51,6 @@
   </a>
 </p>
 
----
 
 <p>
   <img
