@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://i.ibb.co/VJgM9Jv/ai-tech-banner.jpg" alt="banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12990C&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujendra+Nayak;" alt="Typing SVG" />
 </p>
 
@@ -17,7 +21,7 @@
 - 🥰 I love to work with **JavaScript** and **React**  
 - 😀 I’m always ready to learn **new technologies**
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
