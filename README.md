@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Sujendra%20Nayak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sujendra%20Nayak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Robotics%20%26%20AI%20Engineer&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text= Hi Sujendra%20Nayak&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sujendra%20Nayak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Robotics%20%26%20AI%20Engineer&descSize=20&descAlignY=55" width="100%"/>
 </p>
 
 <!-- Typing SVG -->
