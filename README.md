@@ -25,26 +25,6 @@
 <!-- About section -->
 <img align="right" width="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 
-## `> whoami`
-
-```python
-class SujendraNayak:
-    def __init__(self):
-        self.name        = "Sujendra Nayak"
-        self.role        = "Robotics & AI Engineer"
-        self.location    = "🌍 India"
-        self.languages   = ["Python", "JavaScript", "C", "Java"]
-        self.loves       = ["React ⚛️", "AI/ML 🤖", "Robotics 🦾", "Open Source 🌐"]
-        self.learning    = ["Deep Learning", "ROS2", "SLAM", "Transformer Models"]
-        self.fun_fact    = "I teach machines to think, then I overthink 🤯"
-
-    def current_mission(self):
-        return "Making robots smarter than my WiFi 📡"
-
-me = SujendraNayak()
-print(me.current_mission())
-```
-
 <br clear="right"/>
 
 ---
